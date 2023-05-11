@@ -3,7 +3,7 @@ LEGO EV3 Color Detecting and Self-Parking Robot
 
 
 
-Introduction
+##Introduction
 During the winter, the roads can quickly become slippery due to snow and ice. When people are getting in or out of their car, they can slip and fall, resulting in significant injury, making this a substantial safety concern. This issue is particularly prevalent in parking lots, as many people exit their vehicles and walk away. To solve this issue, we decided to build an EV3 Lego robot that could shovel snow in a parking lot and park itself in an open spot afterwards.
 
 
